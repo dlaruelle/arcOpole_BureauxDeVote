@@ -7,7 +7,7 @@ La Ville de Boulogne-Billancourt a travaillé avec l’équipe arcOpole sur le s
 aux citoyens de savoir dans quel lieu de vote ils devront se rendre pour les prochaines élections.
 
 Constituée du code source de l’application, d’une documentation pour l’adapter et d’un jeu de données exemple,
-la Solution Métier Utilisateur « Bureaux de vote » est maintenant disponible.
+la Solution Métier Utilisateur « Bureaux de vote » est maintenant disponible (pour plus d'informations consultez le site http://www.arcopole.fr).
 
 Retrouvez toutes les informations pour, vous aussi, mettre à disposition cette application simple et multi-écran 
 (ordinateur, tablette, smartphone) sur le site de votre collectivité.
