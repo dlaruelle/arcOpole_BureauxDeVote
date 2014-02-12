@@ -26,11 +26,9 @@ Navigation sur la carte
 
 Il ya plusieurs façons d'interagir avec la carte :
 
-1 . Utiliser le changeur de fond de carte ( pas disponible sur smartphone) pour sélectionner le fond de carte que vous souhaitez interagir avec
-2 . Maintenez la touche Maj enfoncée et faites glisser une zone sur la carte pour l'agrandir
-3 . Maintenez la touche Ctrl + Maj pour effectuer un zoom arrière
-4 . Passez votre rouleau de la souris pour zoomer / dézoomer
-5 . Faites glisser le curseur de zoom pour agrandir
+1 . Utilisez les boutons + et - en haut à gauche (ou la molette de votre souris) pour changer le zoom de la carte
+2 . Maintenez la touche Maj pour effectuer un zoom avant (Maj + Ctrl pour un zoom arrière)
+3. Utiliser le changeur de fond de carte (non-disponible sur smartphone) pour sélectionner le fond de carte que vous souhaitez afficher
 
 La recherche
 ============
@@ -53,9 +51,9 @@ Dans l'onglet "Lieu de vote", vous trouverez :
 Informations
 ============
 
-L'application bureau de votedemande peut être utilisé par les greffiers de la ville , les greffiers de comté , les commissions électorales ou d'autres organismes responsables de la gestion des élections pour offrir une application Web scrutin de l'élection Lieux gouvernement local. Cette application offre un accès 24x7 à l'organisation et complète généralement les numéros de téléphone du service client tenus par ces organisations .
-
-S'il vous plaît visitez les ArcGIS d'ESRI pour Centre de ressources du gouvernement local pour plus d'informations . 
+L'application <b>bureau de vote peut être utilisée par les citoyens et les agents communaux pour trouver le lieu de vote associé au lieu d'habitation.
+Cette application est basée sur une ressource mise à disposition par la société Esri France dans le cadre du Programme arcOpole (www.arcopole.fr) à destination des Collectivités. Initialement, l'application a été dérivée d'un modèle disponible comme partie de la Solution ArcGIS for Local Governement (http://solutions.arcgis.com/local-government/) d'Esri Inc.. 
+Consultez les différents sites internet pour plus d'informations.
 
 Compatibilité
 =============
